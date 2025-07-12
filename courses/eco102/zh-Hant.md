@@ -16,16 +16,16 @@ objectives:
 本課程由 Damien Theillier 主講，邀請您一窺 Frédéric Bastiat 的世界，他是一位法國經濟學與哲學家，其思想深深影響當代經濟理論。Damien Theillier 將透過 21 段影片，探討巴斯蒂亞的生命歷程、思想影響力、對立學派及他的核心理論。
 
 
-本課程首先將介紹 Bastiat 的生平與歷史背景，然後再檢視標誌著他思想的思想家，例如 Adam Smith、Jean-Baptiste Say、Antoine Destutt de Tracy、Charles Comte、Charles Dunoyer 和 Richard Cobden。接著，課程會探討巴斯蒂亞的對手，包括盧梭、古典教育、保護主義、社會主義和普魯東。
+本課程首先將介紹 Bastiat 的生平與歷史背景，然後再回顧對他思想發展影響深遠的思想家，例如 Adam Smith、Jean-Baptiste Say、Antoine Destutt de Tracy、Charles Comte、Charles Dunoyer 和 Richard Cobden。接著，課程會探討巴斯蒂亞的對立學派，包括盧梭、古典教育、保護主義、社會主義和普魯東。
 
 
-本課程的一個重要部分是專門討論巴斯蒂亞所譴責的經濟詭辯，例如「看見的和看不到的」、「燭匠的請願」、透過徵稅進行掠奪，以及兩種經濟道德的區別。本課程還探討巴斯蒂亞所提倡的經濟和諧，包括市場的奇蹟、責任的力量和真正的團結。
+本課程的其中一個核心是將探討巴斯蒂亞所譴責的經濟謬誤：如「看得見與看不見」、「燭匠的請願」、透過課稅進行掠奪，以及兩種經濟道德差異的思辨。本課程亦將介紹 Bastiat 所主張的「經濟中的和諧」，從市場的自我調節機制，到責任制度的建立，以及建立在自由基礎上的團結精神。
 
 
-最後，課程以反思「法律」作結，探討財產權、合法掠奪和國家角色等關鍵概念。課程的結尾會重溫 Frédéric Bastiat 的遺產以及他對現代經濟學的持久影響。
+最後，課程將反思合法性，探討財產權、制度性掠奪和國家公權力機器等概念。課程的結尾會重溫 Frédéric Bastiat 的思想以及他對現代經濟學的深遠影響。
 
 
-與 Damien Theillier 一起探索 Frédéric Bastiat 的思想，並發現他的觀點如何啟發當前的經濟和政治辯論。
+與 Damien Theillier 一起探索 Frédéric Bastiat 的經濟思想，並理解他的觀點如何持續影響當代經濟與政治討論。
 
 
 +++
