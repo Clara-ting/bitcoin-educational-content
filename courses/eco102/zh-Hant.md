@@ -1,22 +1,22 @@
 ---
-name: Frédéric Bastiat，生平、影響及經濟思想
-goal: 深入瞭解 19 世紀法國經濟學家和思想家 Frédéric Bastiat 的生平、影響、對手和經濟理論。
+name: Frédéric Bastiat，生命歷程、思想及經濟影響
+goal: 深入瞭解 19 世紀法國經濟學家和思想家 Frédéric Bastiat 的生命歷程、核心思想及經濟理論貢獻。
 objectives: 
 
-  - 了解 Frédéric Bastiat 的生平和歷史背景。
-  - 瞭解 Bastiat 在思想上受到的影響。
-  - 檢視 Bastiat 的意識形態對手。
-  - 根據 Bastiat 分析經濟詭辯。
+  - 瞭解 Frédéric Bastiat 的生平和歷史背景。
+  - 掌握 Bastiat 在思想脈絡上受到的影響。
+  - 初步認識 Bastiat 的對立學派。
+  - 根據 Bastiat 分析經濟謬誤。
 
 ---
 
-# 進入 Frédéric Bastiat 的世界之旅
+# 進入 Frédéric Bastiat 的思想世界
 
 
-本課程由 Damien Theillier 主講，邀請您深入瞭解 Frédéric Bastiat 的世界，他是一位法國經濟學家和哲學家，其思想一直影響著當代的經濟思想。Damien Theillier 將透過 21 段影片，探討巴斯蒂亞的生平、思想影響力、意識形態對手，以及他的經濟理論。
+本課程由 Damien Theillier 主講，邀請您一窺 Frédéric Bastiat 的世界，他是一位法國經濟學與哲學家，其思想深深影響當代經濟理論。Damien Theillier 將透過 21 段影片，探討巴斯蒂亞的生命歷程、思想影響力、對立學派及他的核心理論。
 
 
-本課程首先詳細介紹 Bastiat 的生平與歷史背景，然後再檢視標誌著他思想的思想家，例如 Adam Smith、Jean-Baptiste Say、Antoine Destutt de Tracy、Charles Comte、Charles Dunoyer 和 Richard Cobden。接著，課程會探討巴斯蒂亞的對手，包括盧梭、古典教育、保護主義、社會主義和普魯東。
+本課程首先將介紹 Bastiat 的生平與歷史背景，然後再檢視標誌著他思想的思想家，例如 Adam Smith、Jean-Baptiste Say、Antoine Destutt de Tracy、Charles Comte、Charles Dunoyer 和 Richard Cobden。接著，課程會探討巴斯蒂亞的對手，包括盧梭、古典教育、保護主義、社會主義和普魯東。
 
 
 本課程的一個重要部分是專門討論巴斯蒂亞所譴責的經濟詭辯，例如「看見的和看不到的」、「燭匠的請願」、透過徵稅進行掠奪，以及兩種經濟道德的區別。本課程還探討巴斯蒂亞所提倡的經濟和諧，包括市場的奇蹟、責任的力量和真正的團結。
